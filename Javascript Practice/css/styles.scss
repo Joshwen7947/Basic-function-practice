@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background: linear-gradient(to right, steelblue, orange);
+	// background-color: steelblue;
+	h1 {
+		text-align: center;
+		padding: 50px;
+		font-size: 4rem;
+	}
+	p {
+		text-align: center;
+		padding: 50px;
+		text-decoration: underline;
+		font-size: 2rem;
+	}
+}
